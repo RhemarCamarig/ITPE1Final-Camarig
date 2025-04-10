@@ -1,0 +1,1 @@
+document.getElementById("regestrationform").addEventListener("register", function(event)(event.
